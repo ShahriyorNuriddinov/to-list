@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Redux Todo List</h1>
+      <h1> Todo List</h1>
       <form onSubmit={handleSubmit} className="todo-form">
         <input
           type="text"
